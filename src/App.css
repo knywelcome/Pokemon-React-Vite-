@@ -1,0 +1,114 @@
+.ds{
+  height: 1200px;
+  width: 1062px;
+  background-image: url(https://mx.static.webuy.com/product_images/Juegos/3DS%20Consolas/0454965003DXLB02B_l.jpg);
+  background-size: cover;
+}
+
+.top_screen {
+  height: 470px;
+  width: 760px;
+  /* background-image: url(https://pm1.aminoapps.com/5966/79118e9da6944c0c3ddbdcf132b2e7131e38d387_hq.jpg); */
+  background-size: cover;
+
+  border-radius: 20px;
+  position: relative;
+  top: 95px;
+  left: 150px;
+
+  
+}
+
+.bottom_screen{
+  height: 440px;
+  width: 588px;
+  /* background-color: rgb(230, 72, 72); */
+  opacity: 0.5;
+  border-radius: 20px;
+
+  position: absolute;
+  top: 672px;
+  left: 234px;
+}
+
+.textBox{
+  height: 100px;
+  width: 510px;
+  background-color: rgb(255, 255, 255);
+  border-color: rgb(161, 0, 0);
+  border-radius: 20px;
+  border-width: 5px;
+  position: relative;
+  top: 10px;
+  left: 40px;
+}
+.textBoxText{
+  color: black;
+  
+  position: relative;
+  top: 10px;
+  left: 10px;
+}
+
+
+
+.buttons{
+  height: 165px;
+  width: 165px;
+  background-color: rgb(171, 192, 77);
+  opacity: 0.5;
+  
+  position: relative;
+  top: 258px;
+  left: 860px;
+
+}
+
+.a_button{
+  height: 55px;
+  width: 55px;
+  background-color: rgb(230, 72, 72);
+  opacity: 0.5;
+
+  border-radius: 1000px;
+
+  position: relative;
+  top: 54px;
+  left: 106px;
+
+}
+
+.proOaksPokemon{
+  height: 40%;
+  position: relative;
+  top: 150px;
+  left: 106px;
+}
+
+.enemy_team{
+  width: 580px;
+  /* background-color: rgb(230, 72, 72);
+  opacity: 0.5; */
+  
+  position: relative;
+  top: 60px;
+  left: 180px;
+  /* display: flex;
+
+  justify-content: space-around; */
+   
+}
+
+
+
+
+img{
+  height: auto;
+  width: auto;
+}
+
+
+.QQenemy_pokemon{
+  position: relative;
+  /* top: 00px; */
+}
