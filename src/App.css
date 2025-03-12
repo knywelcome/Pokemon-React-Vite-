@@ -11,6 +11,8 @@
   /* background-image: url(https://pm1.aminoapps.com/5966/79118e9da6944c0c3ddbdcf132b2e7131e38d387_hq.jpg); */
   background-size: cover;
 
+  /* background-color: rgb(181, 13, 13);
+  border-color: rgb(161, 0, 0); */
   border-radius: 20px;
   position: relative;
   top: 95px;
@@ -27,7 +29,7 @@
   border-radius: 20px;
 
   position: absolute;
-  top: 672px;
+  top: 702px;
   left: 234px;
 }
 
@@ -55,7 +57,7 @@
 .buttons{
   height: 165px;
   width: 165px;
-  background-color: rgb(171, 192, 77);
+  /* background-color: rgb(171, 192, 77); */
   opacity: 0.5;
   
   position: relative;
@@ -67,8 +69,8 @@
 .a_button{
   height: 55px;
   width: 55px;
-  background-color: rgb(230, 72, 72);
-  opacity: 0.5;
+  /* background-color: rgb(230, 72, 72);
+  opacity: 0.5; */
 
   border-radius: 1000px;
 
@@ -91,7 +93,7 @@
   opacity: 0.5; */
   
   position: relative;
-  top: 60px;
+  top: 68px;
   left: 180px;
   /* display: flex;
 
@@ -102,10 +104,10 @@
 
 
 
-img{
+/* img{
   height: auto;
   width: auto;
-}
+} */
 
 
 .QQenemy_pokemon{
